@@ -1,0 +1,15 @@
+carreras
+vueltas
+posiciones
+estrategias
+banderas
+paradas
+victorias
+derrotas
+clasificaciones
+frenadas
+aceleraciones
+curvas
+rectas
+metas
+concentraciones

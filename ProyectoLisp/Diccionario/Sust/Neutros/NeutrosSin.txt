@@ -1,0 +1,8 @@
+piloto
+ingeniero
+mecánico
+rival
+colega
+especialista
+manager
+analista
